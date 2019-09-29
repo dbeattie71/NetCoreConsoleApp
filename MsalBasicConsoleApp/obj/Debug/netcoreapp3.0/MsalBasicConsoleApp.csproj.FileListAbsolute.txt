@@ -1,0 +1,11 @@
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.exe
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.deps.json
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.runtimeconfig.json
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.runtimeconfig.dev.json
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.dll
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\bin\Debug\netcoreapp3.0\MsalBasicConsoleApp.pdb
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\obj\Debug\netcoreapp3.0\MsalBasicConsoleApp.csprojAssemblyReference.cache
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\obj\Debug\netcoreapp3.0\MsalBasicConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\obj\Debug\netcoreapp3.0\MsalBasicConsoleApp.AssemblyInfo.cs
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\obj\Debug\netcoreapp3.0\MsalBasicConsoleApp.dll
+C:\Users\jeferrie\source\repos\MsalBasicConsoleApp\MsalBasicConsoleApp\obj\Debug\netcoreapp3.0\MsalBasicConsoleApp.pdb
